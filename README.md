@@ -1,2 +1,2 @@
 # analog_clock
-This is the real time clock of analog type.  
+This is the model project of real time analog clock.  
